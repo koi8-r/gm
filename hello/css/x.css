@@ -1,0 +1,23 @@
+#monkeyMainDiv {
+    position: fixed ;
+    height: 60% ;
+    z-index: 99999 ;
+    cursor: pointer ;
+    background-color: #CCFFCC ;
+    top: 20% ;
+    left: 0 ;
+    right: 0 ;
+    margin: 0 0 0 0 ;
+    padding: 10px 10px 10px 10px ;
+    overflow: auto ;
+}
+
+#monkeyMainDiv table {
+    border-spacing: 0 ;
+    border-collapse: collapse ;
+}
+
+#monkeyMainDiv table td {
+    border: 1px solid ;
+    padding: 3px ;
+}
